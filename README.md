@@ -1,2 +1,2 @@
 # ProgUzytkowe
-Przykladowy tekst
+
